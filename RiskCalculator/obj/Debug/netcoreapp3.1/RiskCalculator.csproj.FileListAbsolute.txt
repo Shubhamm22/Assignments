@@ -1,0 +1,13 @@
+D:\visual studio\First\RiskCalculator\bin\Debug\netcoreapp3.1\RiskCalculator.exe
+D:\visual studio\First\RiskCalculator\bin\Debug\netcoreapp3.1\RiskCalculator.deps.json
+D:\visual studio\First\RiskCalculator\bin\Debug\netcoreapp3.1\RiskCalculator.runtimeconfig.json
+D:\visual studio\First\RiskCalculator\bin\Debug\netcoreapp3.1\RiskCalculator.runtimeconfig.dev.json
+D:\visual studio\First\RiskCalculator\bin\Debug\netcoreapp3.1\RiskCalculator.dll
+D:\visual studio\First\RiskCalculator\bin\Debug\netcoreapp3.1\RiskCalculator.pdb
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.csproj.AssemblyReference.cache
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.AssemblyInfoInputs.cache
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.AssemblyInfo.cs
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.csproj.CoreCompileInputs.cache
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.dll
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.pdb
+D:\visual studio\First\RiskCalculator\obj\Debug\netcoreapp3.1\RiskCalculator.genruntimeconfig.cache
