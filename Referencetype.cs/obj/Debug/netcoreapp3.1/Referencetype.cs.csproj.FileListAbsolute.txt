@@ -1,0 +1,13 @@
+D:\visual studio\First\Referencetype.cs\bin\Debug\netcoreapp3.1\Referencetype.cs.exe
+D:\visual studio\First\Referencetype.cs\bin\Debug\netcoreapp3.1\Referencetype.cs.deps.json
+D:\visual studio\First\Referencetype.cs\bin\Debug\netcoreapp3.1\Referencetype.cs.runtimeconfig.json
+D:\visual studio\First\Referencetype.cs\bin\Debug\netcoreapp3.1\Referencetype.cs.runtimeconfig.dev.json
+D:\visual studio\First\Referencetype.cs\bin\Debug\netcoreapp3.1\Referencetype.cs.dll
+D:\visual studio\First\Referencetype.cs\bin\Debug\netcoreapp3.1\Referencetype.cs.pdb
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.csproj.AssemblyReference.cache
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.AssemblyInfoInputs.cache
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.AssemblyInfo.cs
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.csproj.CoreCompileInputs.cache
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.dll
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.pdb
+D:\visual studio\First\Referencetype.cs\obj\Debug\netcoreapp3.1\Referencetype.cs.genruntimeconfig.cache
